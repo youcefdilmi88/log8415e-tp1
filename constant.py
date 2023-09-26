@@ -1,6 +1,0 @@
-# AWS Cli we can find access_key_id, secret_access_key and session token
-# overwrite the values here every time start lab is clicked
-
-AWS_ACCESS_KEY_ID = "ASIAXZSEYFC6Z72I4REA"
-AWS_SECRET_ACCESS_KEY = "FKjjExK8aKQhHCxuALZgGtcbwuP+XPSOCZeaT2IC"
-AWS_SESSION_TOKEN = "FwoGZXIvYXdzEG4aDCVGRR/AGnD1XQmV5CLGAacZsr2jqn7phibD+nkxEcqt2YEuYoJ003XkhE4+gcuW12l5W4POZEBPIkeCc8t1MNoApCSOphS0fVw+Y0OtZI0e7jen1MdSqA+TZNzkggvluokbT+aKLL1WVsQH6BiP5n5QGDrUOuxVIXqW8YGHful9waTU0I2hS1JLtFCh9B1rzyVdURGbjSDBzqrNS8xZ0MYWS1BpYHSa3kBndG8VbsnO4ekMD78fWa6Ye3XJM9f8aQjTUmUrdKpeSfeNrlPHkiCT8z0PiSiWm8SoBjIt7kEzp3DINuC8mkbTHiHPI8XJNPaISOSU7L29msAesPx6/KOMfQ6XtgRj1S6s"
