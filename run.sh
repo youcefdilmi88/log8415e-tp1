@@ -17,4 +17,4 @@ echo "=============================================="
 echo ""
 docker build -t lab_1 .
 
-docker run --env-file ./.aws_creds --volume "$(pwd)/graphs:/graphs" lab_1
+docker run -it --env-file ./.aws_creds --volume "$(pwd)/graphs:/graphs" lab_1

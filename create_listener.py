@@ -4,7 +4,7 @@ import boto3
 class CreateListener:
     def create_listener(tg_cluster, load_balancer):
         """
-        Description: Connects to AWS and creates a listener for the load balancer. This code sets up a listener on a Load Balancer that listens for HTTP requests on port 80 and forwards them to a specified target group (tg_cluster1).
+        Description: Connects to AWS and creates a listener for the load balancer. This code sets up a listener on a Load Balancer that listens for HTTP requests on port 80 and forwards them to a specified target group (tg_cluster).
 
         Parameters:
         - tg_cluster (dict): A dict containing an list of target groups. This is the target group that will receive the HTTP requests.

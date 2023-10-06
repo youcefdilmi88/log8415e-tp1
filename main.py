@@ -104,7 +104,8 @@ listener_rule_2 = CreatePathForwardRule.create_path_forward_rule(
     cluster2_tg, listener, "/cluster2", 2
 )
 
-print("Finished initializing infrastructure.")
+print("Finished initializing infrastructure!")
+print("Waiting 400 seconds for infra to be ready...")
 time.sleep(400)
 
 # 2. Run workloads
