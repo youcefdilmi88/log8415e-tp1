@@ -7,7 +7,7 @@ class CreateListner:
         Description: Connects to AWS and creates a listener for the load balancer. This code sets up a listener on a Load Balancer that listens for HTTP requests on port 80 and forwards them to a specified target group (tg_cluster1).
 
         Parameters:
-        - tg_cluster1 (dict): A dict containing an list of target groups. This is the target group that will receive the HTTP requests.
+        - tg_cluster (dict): A dict containing an list of target groups. This is the target group that will receive the HTTP requests.
         - load_balancer (dict): A dict containing an list of load balancers. This is the load balancer that will listen for HTTP requests.
 
         Returns:
