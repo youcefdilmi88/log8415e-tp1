@@ -1,6 +1,6 @@
 # # LOG8415 - LAB1 - Fall 2023
 
-# Public repository: git@github.com:youcefdilmi88/inf8415e-tp1.git
+# Public repository: git@github.com:youcefdilmi88/log8415e-tp1.git
 
 # dependencies to run
 
