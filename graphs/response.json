@@ -1,0 +1,456 @@
+{
+    "Messages": [],
+    "MetricDataResults": [
+        {
+            "Id": "requestcountpertargettargetgroup1",
+            "Label": "AWS/ApplicationELB targetgroup/cluster1/991eb73ea4df600e RequestCountPerTarget",
+            "StatusCode": "Complete",
+            "Timestamps": [
+                "2023-10-02T13:17:00+00:00",
+                "2023-10-02T13:16:00+00:00",
+                "2023-10-02T13:15:00+00:00",
+                "2023-10-02T13:14:00+00:00",
+                "2023-10-02T13:13:00+00:00",
+                "2023-10-02T13:12:00+00:00",
+                "2023-10-02T13:11:00+00:00",
+                "2023-10-02T13:10:00+00:00"
+            ],
+            "Values": [
+                0.0,
+                90.80000000000001,
+                82.4,
+                26.8,
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "Id": "requestcountpertargettargetgroup2",
+            "Label": "AWS/ApplicationELB targetgroup/cluster2/115d486af56515cd RequestCountPerTarget",
+            "StatusCode": "Complete",
+            "Timestamps": [
+                "2023-10-02T13:17:00+00:00",
+                "2023-10-02T13:16:00+00:00",
+                "2023-10-02T13:15:00+00:00",
+                "2023-10-02T13:14:00+00:00",
+                "2023-10-02T13:13:00+00:00",
+                "2023-10-02T13:12:00+00:00",
+                "2023-10-02T13:11:00+00:00",
+                "2023-10-02T13:10:00+00:00"
+            ],
+            "Values": [
+                105.25,
+                24.25,
+                101.0,
+                24.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "Id": "newconnectioncountloadbalancer",
+            "Label": "AWS/ApplicationELB app/elb/4116719853cfe76c NewConnectionCount",
+            "StatusCode": "Complete",
+            "Timestamps": [
+                "2023-10-02T13:17:00+00:00",
+                "2023-10-02T13:16:00+00:00",
+                "2023-10-02T13:15:00+00:00",
+                "2023-10-02T13:14:00+00:00"
+            ],
+            "Values": [
+                842.0,
+                1102.0,
+                1632.0,
+                460.0
+            ]
+        },
+        {
+            "Id": "processedbytesloadbalancer",
+            "Label": "AWS/ApplicationELB app/elb/4116719853cfe76c ProcessedBytes",
+            "StatusCode": "Complete",
+            "Timestamps": [
+                "2023-10-02T13:17:00+00:00",
+                "2023-10-02T13:16:00+00:00",
+                "2023-10-02T13:15:00+00:00",
+                "2023-10-02T13:14:00+00:00"
+            ],
+            "Values": [
+                181451.0,
+                237481.0,
+                351696.0,
+                99130.0
+            ]
+        },
+        {
+            "Id": "targetresponsetimeloadbalancer",
+            "Label": "AWS/ApplicationELB app/elb/4116719853cfe76c TargetResponseTime",
+            "StatusCode": "Complete",
+            "Timestamps": [
+                "2023-10-02T13:17:00+00:00",
+                "2023-10-02T13:16:00+00:00",
+                "2023-10-02T13:15:00+00:00",
+                "2023-10-02T13:14:00+00:00"
+            ],
+            "Values": [
+                1.029887,
+                1.13869,
+                1.8403909999999999,
+                0.484556
+            ]
+        },
+        {
+            "Id": "cpuutilizationinstanceid085fb35d24a4c59f6",
+            "Label": "AWS/EC2 i-085fb35d24a4c59f6 CPUUtilization",
+            "StatusCode": "Complete",
+            "Timestamps": [
+                "2023-10-02T13:10:00+00:00"
+            ],
+            "Values": [
+                26.587894785588613
+            ]
+        },
+        {
+            "Id": "networkininstanceid085fb35d24a4c59f6",
+            "Label": "AWS/EC2 i-085fb35d24a4c59f6 NetworkIn",
+            "StatusCode": "Complete",
+            "Timestamps": [
+                "2023-10-02T13:10:00+00:00"
+            ],
+            "Values": [
+                88102720.0
+            ]
+        },
+        {
+            "Id": "networkoutinstanceid085fb35d24a4c59f6",
+            "Label": "AWS/EC2 i-085fb35d24a4c59f6 NetworkOut",
+            "StatusCode": "Complete",
+            "Timestamps": [
+                "2023-10-02T13:10:00+00:00"
+            ],
+            "Values": [
+                572098.0
+            ]
+        },
+        {
+            "Id": "cpuutilizationinstanceid0a79bbe381082d318",
+            "Label": "AWS/EC2 i-0a79bbe381082d318 CPUUtilization",
+            "StatusCode": "Complete",
+            "Timestamps": [
+                "2023-10-02T13:11:00+00:00",
+                "2023-10-02T13:06:00+00:00"
+            ],
+            "Values": [
+                1.1585162545151364,
+                36.9827586206897
+            ]
+        },
+        {
+            "Id": "networkininstanceid0a79bbe381082d318",
+            "Label": "AWS/EC2 i-0a79bbe381082d318 NetworkIn",
+            "StatusCode": "Complete",
+            "Timestamps": [
+                "2023-10-02T13:11:00+00:00",
+                "2023-10-02T13:06:00+00:00"
+            ],
+            "Values": [
+                118085.0,
+                116798661.0
+            ]
+        },
+        {
+            "Id": "networkoutinstanceid0a79bbe381082d318",
+            "Label": "AWS/EC2 i-0a79bbe381082d318 NetworkOut",
+            "StatusCode": "Complete",
+            "Timestamps": [
+                "2023-10-02T13:11:00+00:00",
+                "2023-10-02T13:06:00+00:00"
+            ],
+            "Values": [
+                95456.0,
+                546345.0
+            ]
+        },
+        {
+            "Id": "cpuutilizationinstanceid0783b361b456b030e",
+            "Label": "AWS/EC2 i-0783b361b456b030e CPUUtilization",
+            "StatusCode": "Complete",
+            "Timestamps": [
+                "2023-10-02T13:13:00+00:00",
+                "2023-10-02T13:08:00+00:00"
+            ],
+            "Values": [
+                1.330786329535977,
+                22.83908045977008
+            ]
+        },
+        {
+            "Id": "networkininstanceid0783b361b456b030e",
+            "Label": "AWS/EC2 i-0783b361b456b030e NetworkIn",
+            "StatusCode": "Complete",
+            "Timestamps": [
+                "2023-10-02T13:13:00+00:00",
+                "2023-10-02T13:08:00+00:00"
+            ],
+            "Values": [
+                186909.0,
+                88002483.0
+            ]
+        },
+        {
+            "Id": "networkoutinstanceid0783b361b456b030e",
+            "Label": "AWS/EC2 i-0783b361b456b030e NetworkOut",
+            "StatusCode": "Complete",
+            "Timestamps": [
+                "2023-10-02T13:13:00+00:00",
+                "2023-10-02T13:08:00+00:00"
+            ],
+            "Values": [
+                144254.0,
+                511964.0
+            ]
+        },
+        {
+            "Id": "cpuutilizationinstanceid0e00a5556bb377970",
+            "Label": "AWS/EC2 i-0e00a5556bb377970 CPUUtilization",
+            "StatusCode": "Complete",
+            "Timestamps": [
+                "2023-10-02T13:12:00+00:00",
+                "2023-10-02T13:07:00+00:00"
+            ],
+            "Values": [
+                1.4180790960452012,
+                24.348360655737697
+            ]
+        },
+        {
+            "Id": "networkininstanceid0e00a5556bb377970",
+            "Label": "AWS/EC2 i-0e00a5556bb377970 NetworkIn",
+            "StatusCode": "Complete",
+            "Timestamps": [
+                "2023-10-02T13:12:00+00:00",
+                "2023-10-02T13:07:00+00:00"
+            ],
+            "Values": [
+                188962.0,
+                88038097.0
+            ]
+        },
+        {
+            "Id": "networkoutinstanceid0e00a5556bb377970",
+            "Label": "AWS/EC2 i-0e00a5556bb377970 NetworkOut",
+            "StatusCode": "Complete",
+            "Timestamps": [
+                "2023-10-02T13:12:00+00:00",
+                "2023-10-02T13:07:00+00:00"
+            ],
+            "Values": [
+                142473.0,
+                496951.0
+            ]
+        },
+        {
+            "Id": "cpuutilizationinstanceid091170b124f9a245d",
+            "Label": "AWS/EC2 i-091170b124f9a245d CPUUtilization",
+            "StatusCode": "Complete",
+            "Timestamps": [
+                "2023-10-02T13:12:00+00:00",
+                "2023-10-02T13:07:00+00:00"
+            ],
+            "Values": [
+                1.25569602667407,
+                23.583333333333368
+            ]
+        },
+        {
+            "Id": "networkininstanceid091170b124f9a245d",
+            "Label": "AWS/EC2 i-091170b124f9a245d NetworkIn",
+            "StatusCode": "Complete",
+            "Timestamps": [
+                "2023-10-02T13:12:00+00:00",
+                "2023-10-02T13:07:00+00:00"
+            ],
+            "Values": [
+                190568.0,
+                88052967.0
+            ]
+        },
+        {
+            "Id": "networkoutinstanceid091170b124f9a245d",
+            "Label": "AWS/EC2 i-091170b124f9a245d NetworkOut",
+            "StatusCode": "Complete",
+            "Timestamps": [
+                "2023-10-02T13:12:00+00:00",
+                "2023-10-02T13:07:00+00:00"
+            ],
+            "Values": [
+                144839.0,
+                495929.0
+            ]
+        },
+        {
+            "Id": "cpuutilizationinstanceid048c4d258375b352e",
+            "Label": "AWS/EC2 i-048c4d258375b352e CPUUtilization",
+            "StatusCode": "Complete",
+            "Timestamps": [
+                "2023-10-02T13:10:00+00:00"
+            ],
+            "Values": [
+                16.08333333333337
+            ]
+        },
+        {
+            "Id": "networkininstanceid048c4d258375b352e",
+            "Label": "AWS/EC2 i-048c4d258375b352e NetworkIn",
+            "StatusCode": "Complete",
+            "Timestamps": [
+                "2023-10-02T13:10:00+00:00"
+            ],
+            "Values": [
+                812595.0
+            ]
+        },
+        {
+            "Id": "networkoutinstanceid048c4d258375b352e",
+            "Label": "AWS/EC2 i-048c4d258375b352e NetworkOut",
+            "StatusCode": "Complete",
+            "Timestamps": [
+                "2023-10-02T13:10:00+00:00"
+            ],
+            "Values": [
+                49908.0
+            ]
+        },
+        {
+            "Id": "cpuutilizationinstanceid0ee9de058155ecc77",
+            "Label": "AWS/EC2 i-0ee9de058155ecc77 CPUUtilization",
+            "StatusCode": "Complete",
+            "Timestamps": [
+                "2023-10-02T13:11:00+00:00",
+                "2023-10-02T13:06:00+00:00"
+            ],
+            "Values": [
+                1.1709502639622098,
+                19.5
+            ]
+        },
+        {
+            "Id": "networkininstanceid0ee9de058155ecc77",
+            "Label": "AWS/EC2 i-0ee9de058155ecc77 NetworkIn",
+            "StatusCode": "Complete",
+            "Timestamps": [
+                "2023-10-02T13:11:00+00:00",
+                "2023-10-02T13:06:00+00:00"
+            ],
+            "Values": [
+                121556.0,
+                87866849.0
+            ]
+        },
+        {
+            "Id": "networkoutinstanceid0ee9de058155ecc77",
+            "Label": "AWS/EC2 i-0ee9de058155ecc77 NetworkOut",
+            "StatusCode": "Complete",
+            "Timestamps": [
+                "2023-10-02T13:11:00+00:00",
+                "2023-10-02T13:06:00+00:00"
+            ],
+            "Values": [
+                83467.0,
+                586426.0
+            ]
+        },
+        {
+            "Id": "cpuutilizationinstanceid03506a1cb1202eaf6",
+            "Label": "AWS/EC2 i-03506a1cb1202eaf6 CPUUtilization",
+            "StatusCode": "Complete",
+            "Timestamps": [
+                "2023-10-02T13:11:00+00:00",
+                "2023-10-02T13:06:00+00:00"
+            ],
+            "Values": [
+                1.1669445216263825,
+                18.6440677966102
+            ]
+        },
+        {
+            "Id": "networkininstanceid03506a1cb1202eaf6",
+            "Label": "AWS/EC2 i-03506a1cb1202eaf6 NetworkIn",
+            "StatusCode": "Complete",
+            "Timestamps": [
+                "2023-10-02T13:11:00+00:00",
+                "2023-10-02T13:06:00+00:00"
+            ],
+            "Values": [
+                124768.0,
+                87868031.0
+            ]
+        },
+        {
+            "Id": "networkoutinstanceid03506a1cb1202eaf6",
+            "Label": "AWS/EC2 i-03506a1cb1202eaf6 NetworkOut",
+            "StatusCode": "Complete",
+            "Timestamps": [
+                "2023-10-02T13:11:00+00:00",
+                "2023-10-02T13:06:00+00:00"
+            ],
+            "Values": [
+                85519.0,
+                573814.0
+            ]
+        },
+        {
+            "Id": "cpuutilizationinstanceid05eb0bb9bfc5c066d",
+            "Label": "AWS/EC2 i-05eb0bb9bfc5c066d CPUUtilization",
+            "StatusCode": "Complete",
+            "Timestamps": [
+                "2023-10-02T13:11:00+00:00",
+                "2023-10-02T13:06:00+00:00"
+            ],
+            "Values": [
+                1.3333333333333286,
+                19.4166666666667
+            ]
+        },
+        {
+            "Id": "networkininstanceid05eb0bb9bfc5c066d",
+            "Label": "AWS/EC2 i-05eb0bb9bfc5c066d NetworkIn",
+            "StatusCode": "Complete",
+            "Timestamps": [
+                "2023-10-02T13:11:00+00:00",
+                "2023-10-02T13:06:00+00:00"
+            ],
+            "Values": [
+                122714.0,
+                87882014.0
+            ]
+        },
+        {
+            "Id": "networkoutinstanceid05eb0bb9bfc5c066d",
+            "Label": "AWS/EC2 i-05eb0bb9bfc5c066d NetworkOut",
+            "StatusCode": "Complete",
+            "Timestamps": [
+                "2023-10-02T13:11:00+00:00",
+                "2023-10-02T13:06:00+00:00"
+            ],
+            "Values": [
+                84740.0,
+                660346.0
+            ]
+        }
+    ],
+    "ResponseMetadata": {
+        "HTTPHeaders": {
+            "content-length": "15551",
+            "content-type": "text/xml",
+            "date": "Mon, 02 Oct 2023 13:19:08 GMT",
+            "x-amzn-requestid": "bd85f3b9-0bd6-4583-91fa-d5bdb90f8d0c"
+        },
+        "HTTPStatusCode": 200,
+        "RequestId": "bd85f3b9-0bd6-4583-91fa-d5bdb90f8d0c",
+        "RetryAttempts": 0
+    }
+}
